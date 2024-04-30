@@ -1,0 +1,13 @@
+C:\Users\AKBAS_PC\source\repos\personel_kayit\personel_kayit\bin\Debug\personel_kayit.exe.config
+C:\Users\AKBAS_PC\source\repos\personel_kayit\personel_kayit\bin\Debug\personel_kayit.exe
+C:\Users\AKBAS_PC\source\repos\personel_kayit\personel_kayit\bin\Debug\personel_kayit.pdb
+C:\Users\AKBAS_PC\source\repos\personel_kayit\personel_kayit\obj\Debug\personel_kayit.csproj.AssemblyReference.cache
+C:\Users\AKBAS_PC\source\repos\personel_kayit\personel_kayit\obj\Debug\personel_kayit.Form1.resources
+C:\Users\AKBAS_PC\source\repos\personel_kayit\personel_kayit\obj\Debug\personel_kayit.Properties.Resources.resources
+C:\Users\AKBAS_PC\source\repos\personel_kayit\personel_kayit\obj\Debug\personel_kayit.csproj.GenerateResource.cache
+C:\Users\AKBAS_PC\source\repos\personel_kayit\personel_kayit\obj\Debug\personel_kayit.csproj.CoreCompileInputs.cache
+C:\Users\AKBAS_PC\source\repos\personel_kayit\personel_kayit\obj\Debug\personel_kayit.exe
+C:\Users\AKBAS_PC\source\repos\personel_kayit\personel_kayit\obj\Debug\personel_kayit.pdb
+C:\Users\AKBAS_PC\source\repos\personel_kayit\personel_kayit\obj\Debug\personel_kayit.istatistik.resources
+C:\Users\AKBAS_PC\source\repos\personel_kayit\personel_kayit\obj\Debug\personel_kayit.frmgrafik.resources
+C:\Users\AKBAS_PC\source\repos\personel_kayit\personel_kayit\obj\Debug\personel_kayit.frmgiriş.resources
